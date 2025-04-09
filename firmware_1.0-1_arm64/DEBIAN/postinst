@@ -1,0 +1,4 @@
+cp -r /opt/dsf/sd/omni_firmware/* /opt/dsf/sd/firmware
+sudo chown -R dsf:dsf /opt/dsf/sd/firmware
+
+
