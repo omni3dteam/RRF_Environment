@@ -1,0 +1,2 @@
+chown -R dsf:dsf /opt/dsf/sd/firmware_omni
+cp /opt/dsf/sd/firmware_omni/* /opt/dsf/sd/firmware
