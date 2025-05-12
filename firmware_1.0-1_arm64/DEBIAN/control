@@ -1,5 +1,0 @@
-Package: omni3d-firmware
-Version: 1.0
-Architecture: arm64
-Maintainer: Adam Wasilewski <awa@omni3d.net>
-Description: Collection of firmware binaries for duet controllers.
