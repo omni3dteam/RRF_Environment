@@ -1,5 +1,5 @@
 Package: omni3d-rrf
-Version: 1.0
+Version: 1.1
 Architecture: arm64
 Maintainer: Omni3D <awa@omni3d.net>
 Description: Duet3 mainboard and satellites firmware.

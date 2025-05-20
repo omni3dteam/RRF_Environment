@@ -14,5 +14,6 @@ echo $DIR_NAME
 cd ..
 
 dpkg-deb --build --root-owner-group $DIR_NAME 
+rm -r $PACKAGE_NAME/opt/dsf/sd/firmware_omni
 
 cd $SCRIPT_DIR
